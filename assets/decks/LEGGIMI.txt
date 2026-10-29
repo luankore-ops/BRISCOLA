@@ -1,0 +1,15 @@
+Mazzi personalizzati (PNG)
+==========================
+Per aggiungere un mazzo crea una cartella qui dentro, ad esempio assets/decks/mio_mazzo/,
+con questi file (rapporto consigliato 120:190):
+
+  denari_1.png ... denari_10.png
+  coppe_1.png  ... coppe_10.png
+  spade_1.png  ... spade_10.png
+  bastoni_1.png ... bastoni_10.png
+  back.png                         (dorso)
+
+Valori: 1 = asso, 8 = fante, 9 = cavallo, 10 = re.
+Il mazzo compare automaticamente nel menu (il nome della cartella e' il nome del mazzo).
+Se manca anche un solo file la cartella viene ignorata.
+Usa solo immagini di cui hai i diritti o con licenza libera.
